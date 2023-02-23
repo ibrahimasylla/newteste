@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "playgroudApi",
-    "slug": "playgroudApi",
+    "slug": "playgroundapi",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0b087dd2-16ac-4c6a-bbf5-88284a08abaf"
+      }
+    },
+    "owner": "khalilsylla"
   }
 }
