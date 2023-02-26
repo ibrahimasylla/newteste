@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Open up App.js to start working on your teste!</Text>
       <Text>Open up App.js to start working on your teste!</Text>
+      <Text>Adding this new feature to my teste branch</Text>
 
       <StatusBar style="auto" />
     </View>
